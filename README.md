@@ -1,5 +1,5 @@
 <HTML>
-<body style="background-color:lightgrey"
+<body style="background-color:lightgrey">
 <h1>Green Finger Farms</h1>
 <hr>
 <p>Hi! We're a Seattle based agricultural cooperative focussed on backyard veggie gardening. Say hello!</p>
