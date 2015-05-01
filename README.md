@@ -1,12 +1,20 @@
-<!DOCTYPE html>
-<html>
-<body style="background-color:lightgrey">
+<HTML>
+<head>
+<style>
+body {background-color:lightgrey}
+h1   {color:blue}
+p    {color:green}
+</style>
+</head>
+<body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>Green Finger Farms</h1>
+<hr>
 
+<p>Hi! We're a Seattle based agricultural cooperative focussed on backyard veggie gardening. Say hello!</p>
+Find us of Facebook - <a href="url">https://www.facebook.com/groups/1614909545391763/</a>
 </body>
-</html>
+</HTML>
 
 
 
