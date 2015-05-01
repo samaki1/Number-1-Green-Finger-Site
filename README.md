@@ -1,8 +1,5 @@
 <HTML>
 <head>
-<title> GF <title>
-<style type=”text/css”>
-</style>
 </head>
 <body>
 
