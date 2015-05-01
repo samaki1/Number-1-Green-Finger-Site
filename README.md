@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <HTML>
 <body style="background-color:lightgrey">
 <h1>Green Finger Farms</h1>
