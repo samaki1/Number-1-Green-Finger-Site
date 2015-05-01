@@ -1,10 +1,6 @@
 <HTML>
 <head>
-<style>
-body {background-color:lightgrey}
-h1   {color:blue}
-p    {color:green}
-</style>
+
 </head>
 <body>
 
