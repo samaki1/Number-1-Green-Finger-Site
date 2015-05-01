@@ -6,3 +6,7 @@ Find us of Facebook - <a href="url">https://www.facebook.com/groups/161490954539
 <input type="email" placeholder="Your email">
 </input type="submit">
 </HTML>
+
+option.a {
+    background-color: red;
+}
