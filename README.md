@@ -1,9 +1,6 @@
 <HTML>
 <head>
-<title><title>
- <style type=”text/css”>
-CSS Content Goes Here
- </style>
+
 </head>
 <body>
 
