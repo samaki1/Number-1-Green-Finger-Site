@@ -1,8 +1,10 @@
 <!DOCTYPE html4>
 <HTML>
-<head>
 
+<head>
+<title> Green Finger Farm</title>
 </head>
+<body>
 <body bgcolor="#E6E6FA"> 
 
 <h1>Green Finger Farms</h1>
