@@ -2,7 +2,7 @@
 <head>
 
 </head>
-<body bgcolor="#66ff"> 
+<body bgcolor="#E6E6FA"> 
 
 <h1>Green Finger Farms</h1>
 <hr>
