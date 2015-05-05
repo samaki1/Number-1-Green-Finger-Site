@@ -5,8 +5,8 @@
 <head>
 <title> Green Finger Farm</title>
 </head>
-<body>
-<body bgcolor="#E6E6FA"> 
+<body style="color:red">>
+
 </body>
 <h1>Green Finger Farms</h1>
 <hr>
