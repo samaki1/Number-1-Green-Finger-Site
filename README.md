@@ -1,3 +1,4 @@
+<!DOCTYPE html> 
 <HTML>
 
 <head>
@@ -13,3 +14,4 @@
 Find us of Facebook - <a href="url">https://www.facebook.com/groups/1614909545391763/</a>
 
 </HTML>
+</!DOCTYPE html>
