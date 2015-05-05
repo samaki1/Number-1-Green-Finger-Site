@@ -8,7 +8,7 @@
 <body>
 
 </body>
-<h1 style="color: green">Green Finger Farms</h1>
+<h1 style="font-size:16px; color: green">Green Finger Farms</h1>
 <hr>
 
 <p>Hi! We're a Seattle based agricultural cooperative focussed on backyard veggie gardening. Say hello!</p>
