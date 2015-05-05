@@ -1,4 +1,4 @@
-HTML5 DOCTYPE: <!DOCTYPE html>
+<!DOCTYPE html>
 <HTML>
 
 <head>
