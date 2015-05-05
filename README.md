@@ -1,5 +1,5 @@
 <DOCTYPE html>
-    "http://www.w3.org/TR/html4/strict.dtd">
+    
 <HTML>
 
 <head>
