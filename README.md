@@ -5,7 +5,7 @@
 <head>
 <title> Green Finger Farm</title>
 </head>
-<body style="color:red">>
+<body style="color:red">
 
 </body>
 <h1>Green Finger Farms</h1>
